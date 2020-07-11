@@ -3,7 +3,7 @@
 
 #### See my [LikedIn](https://www.linkedin.com/in/danielsousast/)
 
-#### Send me a [E-mail](daniel.sousa.developer@gmail.com)
+#### Send me a E-mail: daniel.sousa.developer@gmail.com
 <!--
 **danielsousast/danielsousast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
