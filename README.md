@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Main projects
+- [DesginCode App](https://github.com/danielsousast/designcode-app)
+- [GoBarber](https://github.com/danielsousast/gobarber)
+- [NoExcuses App](https://github.com/danielsousast/noexcuses-app)
 
 #### See my [LikedIn](https://www.linkedin.com/in/danielsousast/)
 
