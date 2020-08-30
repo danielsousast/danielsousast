@@ -2,6 +2,14 @@
 
 #### See my [LikedIn](https://www.linkedin.com/in/danielsousast/)
 
+## Skills
+- Javascript
+- Typescript
+- React
+- React Native
+- Node
+
+
 <!--
 **danielsousast/danielsousast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
