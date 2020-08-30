@@ -2,7 +2,7 @@
 
 #### See my [LikedIn](https://www.linkedin.com/in/danielsousast/)
 
-## Skills
+### Skills
 - Javascript
 - Typescript
 - React
