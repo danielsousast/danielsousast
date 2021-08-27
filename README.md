@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am javascript developer. I work mainly with application development with React Native ⚛️
+
 #### See my [LikedIn](https://www.linkedin.com/in/danielsousast/)
 
 ### Skills
