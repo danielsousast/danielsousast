@@ -16,7 +16,7 @@
 
 - ⚛️ React & React Native  
 - 🟨 JavaScript | 🔷 TypeScript  
-- 🌐 Node.js, Express, Fastfy  
+- 🌐 Node.js, Express, Fastify  
 - 📲 Expo, Firebase, GraphQL  
 - 🧰 Git, REST APIs, CI/CD, App Store & Play Store pipelines
 
