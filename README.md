@@ -2,7 +2,7 @@
 
 I'm a passionate **JavaScript developer** with a strong focus on **mobile application development** using **React Native** ⚛️. I enjoy building high-quality apps, mentoring teams, and exploring new technologies that improve user experience and developer productivity.
 
-📍 Based in Brazil | 💼 Mobile Tech Lead | 🧠 Lifelong Learner
+📍 Based in Brazil | 💼 Mobile Engenieer| 🧠 Lifelong Learner
 
 ---
 
