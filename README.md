@@ -1,16 +1,26 @@
-### Hi there 👋
+### 👋 Hi there! I'm Daniel Sousa
 
-#### I am javascript developer. I work mainly with application development with React Native ⚛️
+I'm a passionate **JavaScript developer** with a strong focus on **mobile application development** using **React Native** ⚛️. I enjoy building high-quality apps, mentoring teams, and exploring new technologies that improve user experience and developer productivity.
 
-#### See my [LikedIn](https://www.linkedin.com/in/danielsousast/)
+📍 Based in Brazil | 💼 Mobile Tech Lead | 🧠 Lifelong Learner
 
-### Skills
-- Javascript
-- Typescript
-- React
-- React Native
-- Node
+---
 
+### 🚀 Tech Stack & Skills
+
+- **Languages:** JavaScript | TypeScript  
+- **Frontend:** React | React Native  
+- **Tools & Ecosystem:** Expo | Firebase | GraphQL | Git | REST APIs  
+- **Others:** CI/CD | Monorepos | App Store & Play Store Releases
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/danielsousast/)
+- [GitHub](https://github.com/danielsousast)
+
+---
 
 <!--
 **danielsousast/danielsousast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
