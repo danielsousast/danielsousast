@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-💼 Mobile Tech Lead focused on **architecture**, **performance**, and **great user experiences**  
+💼 Mobile Engenieer focused on **architecture**, **performance**, and **great user experiences**  
 📱 Specialized in **React Native** app development  
 🌱 Always learning, growing, and mentoring  
 🎯 I believe in clean code, meaningful features, and strong teams
