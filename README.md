@@ -1,38 +1,43 @@
-### 👋 Hi there! I'm Daniel Sousa
-
-I'm a passionate **JavaScript developer** with a strong focus on **mobile application development** using **React Native** ⚛️. I enjoy building high-quality apps, mentoring teams, and exploring new technologies that improve user experience and developer productivity.
-
-📍 Based in Brazil | 💼 Mobile Engenieer| 🧠 Lifelong Learner
+<h2 align="center">👋 Hi! I'm Daniel Sousa</h2>
+<p align="center">A passionate JavaScript developer focused on building great mobile apps with React Native ⚛️</p>
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 🧑‍💻 About Me
 
-- **Languages:** JavaScript | TypeScript  
-- **Frontend:** React | React Native  
-- **Tools & Ecosystem:** Expo | Firebase | GraphQL | Git | REST APIs  
-- **Others:** CI/CD | Monorepos | App Store & Play Store Releases
+💼 Mobile Tech Lead focused on **architecture**, **performance**, and **great user experiences**  
+📱 Specialized in **React Native** app development  
+🌱 Always learning, growing, and mentoring  
+🎯 I believe in clean code, meaningful features, and strong teams
 
 ---
 
-### 📫 Connect with Me
+### 🚀 Tech Stack & Tools
 
-- [LinkedIn](https://www.linkedin.com/in/danielsousast/)
-- [GitHub](https://github.com/danielsousast)
+- ⚛️ React & React Native  
+- 🟨 JavaScript | 🔷 TypeScript  
+- 🌐 Node.js, Express, Fastfy  
+- 📲 Expo, Firebase, GraphQL  
+- 🧰 Git, REST APIs, CI/CD, App Store & Play Store pipelines
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Sousa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielsousast/)
+[![GitHub](https://img.shields.io/badge/GitHub-danielsousast-000?style=flat&logo=github)](https://github.com/danielsousast)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsousast&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsousast&layout=compact&theme=tokyonight" height="160" />
+</div>
 
 ---
 
 <!--
 **danielsousast/danielsousast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
